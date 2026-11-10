@@ -19,3 +19,7 @@ class RunningWorkout extends Workout{
 }
 ````
 and it ask the user to enter manually the variables values
+
+## Code Review
+- **Reviewed by:** [Emaan Taquie]
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
